@@ -1,0 +1,6 @@
+material,estimated_max_stress_MPa,initial_length_mm,foreshortening_fraction,loaded_length_mm,reported_density_kg_m3,poisson_ratio,yield_MPa,tangent_modulus_MPa,UTS_MPa
+316L stainless steel,320,10,-0.32,13.2,7050,0.27,207,692,595
+Co-Cr (L605),840,10,-0.3,13,9100,0.3,629,1147,1020
+Tantalum,235,10,-0.12,11.2,1669,0.35,170,205,285
+Nitinol,360,10,-0.33,13.3,6478,0.3,195,1400,1200
+Pt-Cr,332,10,-0.11,11.1,9900,0.3,203,834,834
